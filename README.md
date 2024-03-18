@@ -15,4 +15,4 @@ Our goal here is to report an accurate estimate of the ROI associated with Spons
 4.  How should we compare with Difference-in-Differences estimator?
 5.  Based on new treatment effect, what should be the corrected ROI?
 
-## what's Difference-in-Differences (DiD)
+
